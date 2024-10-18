@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types on dataIngenio</title>
+    <link>http://localhost:1313/publication_types/</link>
+    <description>Recent content in Publication_types on dataIngenio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>info@dataingenio.com (Tama Francisquez)</managingEditor>
+    <webMaster>info@dataingenio.com (Tama Francisquez)</webMaster>
+    <copyright>© dataIngenio {year}. All rights reserved</copyright>
+    <atom:link href="http://localhost:1313/publication_types/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

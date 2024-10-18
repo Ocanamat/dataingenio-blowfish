@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on dataIngenio</title>
+    <link>http://localhost:1313/authors/</link>
+    <description>Recent content in Authors on dataIngenio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>info@dataingenio.com (Tama Francisquez)</managingEditor>
+    <webMaster>info@dataingenio.com (Tama Francisquez)</webMaster>
+    <copyright>© dataIngenio {year}. All rights reserved</copyright>
+    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuno Coração</title>
+      <link>http://localhost:1313/authors/nunocoracao/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <author>info@dataingenio.com (Tama Francisquez)</author>
+      <guid>http://localhost:1313/authors/nunocoracao/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>David Simão</title>
+      <link>http://localhost:1313/authors/davidsimao/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      <author>info@dataingenio.com (Tama Francisquez)</author>
+      <guid>http://localhost:1313/authors/davidsimao/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Art by a Ghost</title>
+      <link>http://localhost:1313/authors/artbyaghost/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      <author>info@dataingenio.com (Tama Francisquez)</author>
+      <guid>http://localhost:1313/authors/artbyaghost/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

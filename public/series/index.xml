@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on dataIngenio</title>
+    <link>http://localhost:1313/series/</link>
+    <description>Recent content in Series on dataIngenio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>info@dataingenio.com (Tama Francisquez)</managingEditor>
+    <webMaster>info@dataingenio.com (Tama Francisquez)</webMaster>
+    <copyright>© dataIngenio {year}. All rights reserved</copyright>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The New AI Hype</title>
+      <link>http://localhost:1313/series/the-new-ai-hype/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <author>info@dataingenio.com (Tama Francisquez)</author>
+      <guid>http://localhost:1313/series/the-new-ai-hype/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Complete PM</title>
+      <link>http://localhost:1313/series/the-complete-pm/</link>
+      <pubDate>Sat, 26 Nov 1988 00:00:00 +0000</pubDate>
+      <author>info@dataingenio.com (Tama Francisquez)</author>
+      <guid>http://localhost:1313/series/the-complete-pm/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
