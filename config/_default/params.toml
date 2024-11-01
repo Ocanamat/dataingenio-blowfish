@@ -140,7 +140,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # measurementId = "XXXXXX"
 
 # Google Analytics Tag. Version 4
-googleAnalytics = "G-Y5YMCHKZ2C"
+#googleAnalytics = "G-Y5YMCHKZ2C"
 
 [fathomAnalytics]
   # site = "ABC12345"
