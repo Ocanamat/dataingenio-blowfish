@@ -2,17 +2,17 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "dataIngenio"
+title = ""
 
 [params]
   displayName = "eng"
   isoCode = "en"
   rtl = false
   dateFormat = "2 Jan 2006"
-  logo = "media/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  logo = "image/logo/logo_inv.png"
+  secondaryLogo = "image/logo/logo.png"
   description = "Data science, optimizations/analyses and insightful data storytelling on a variety of topics and data sources to help you, your business and your community"
-  copyright = "© dataIngenio {year}. All rights reserved"
+  copyright = "© Tama Francisquez { year }. All rights reserved"
 
 [params.author]
   name = "Tama Francisquez"

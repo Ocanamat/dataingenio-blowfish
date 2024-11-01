@@ -5,8 +5,8 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "slate"
-defaultAppearance = "light" # valid options: light or dark
+colorScheme = "dataIngenio"
+defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 
 enableSearch = true
@@ -22,8 +22,8 @@ disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 # Default background image for both background homepage layout and background hero style
-defaultBackgroundImage = "/media/background.jpg" 
-defaultFeaturedImage = "/media/background.jpg" 
+defaultBackgroundImage = "/image/background/background.jpg" 
+defaultFeaturedImage = "/image/background/background.jpg" 
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -36,7 +36,9 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
-  showMenu = true
+  showLogo = true
+  footer_logo = "/image/logo/footer_logo.png"
+  showMenu = false
   showCopyright = true
   showThemeAttribution = true
   showAppearanceSwitcher = true
@@ -46,7 +48,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   layout = "background" # page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 6
+  showRecentItems = 8
   showMoreLink = true
   showMoreLinkDest = "/posts/"
   cardView = false
@@ -137,6 +139,9 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # appId = "XXXXXX"
   # measurementId = "XXXXXX"
 
+# Google Analytics Tag. Version 4
+googleAnalytics = "G-Y5YMCHKZ2C"
+
 [fathomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
@@ -152,11 +157,11 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # enableTrackEvent = true
 
 [buymeacoffee]
-  # identifier = ""
-  # globalWidget = true
-  # globalWidgetMessage = "Hello"
-  # globalWidgetColor = "#FFDD00"
-  # globalWidgetPosition = "Right"
+  identifier = "ocanamat"
+  globalWidget = true
+  globalWidgetMessage = "Thank you for your support!"
+  globalWidgetColor = "#dc6d10"
+  globalWidgetPosition = "Right"
 
 [verification]
   # google = ""

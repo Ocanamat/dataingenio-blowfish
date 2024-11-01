@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blowfish on dataIngenio</title>
+    <title>Blowfish on </title>
     <link>http://localhost:1313/tag/blowfish/</link>
-    <description>Recent content in Blowfish on dataIngenio</description>
+    <description>Recent content in Blowfish on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>info@dataingenio.com (Tama Francisquez)</managingEditor>
     <webMaster>info@dataingenio.com (Tama Francisquez)</webMaster>
-    <copyright>© dataIngenio {year}. All rights reserved</copyright>
+    <copyright>© Tama Francisquez 2024. All rights reserved</copyright>
     <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/blowfish/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build your homepage using Blowfish and Hugo</title>

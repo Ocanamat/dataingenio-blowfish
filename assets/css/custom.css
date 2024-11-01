@@ -1,0 +1,16 @@
+/* Scale header logos to appropriate size */
+.logo {
+  max-height: 20rem !important;
+  max-width: 20rem !important;
+}
+
+/* footer logo style */
+.footer-logo {
+  max-width: 20rem !important;
+  height: auto;
+}
+
+/* Increase the default font size */
+html {
+  font-size: 12pt;
+}

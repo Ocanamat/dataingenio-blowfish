@@ -1,0 +1,246 @@
+/* dataIngenio scheme */
+:root {
+  --color-neutral: 247, 247, 247;
+
+  --color-neutral-50: 247, 247, 247;
+  --color-neutral-100: 247, 247, 247;
+  --color-neutral-200: 214, 219, 222;
+  --color-neutral-300: 172, 183, 188;
+  --color-neutral-400: 129, 146, 154;
+  --color-neutral-500: 92, 107, 115;
+  --color-neutral-600: 74, 86, 92;
+  --color-neutral-700: 56, 65, 70;
+  --color-neutral-800: 38, 44, 47;
+  --color-neutral-900: 19, 23, 24;
+
+  --color-primary-50: 209, 232, 250;
+  --color-primary-100: 184, 218, 245;
+  --color-primary-200: 129, 188, 233;
+  --color-primary-300: 84, 159, 217;
+  --color-primary-400: 37, 140, 218;
+  --color-primary-500: 27, 118, 187;
+  --color-primary-600: 17, 93, 151;
+  --color-primary-700: 9, 68, 113;
+  --color-primary-800: 4, 43, 73;
+  --color-primary-900: 0, 20, 35;
+  --color-primary-950: 0, 6, 10;
+
+  /*
+  --color-primary-50: 208, 232, 251;
+  --color-primary-100: 192, 223, 247;
+  --color-primary-200: 154, 202, 239;
+  --color-primary-300: 118, 181, 228;
+  --color-primary-400: 84, 159, 217;
+  --color-primary-500: 55, 136, 198;
+  --color-primary-600: 36, 108, 163;
+  --color-primary-700: 24, 81, 124;
+  --color-primary-800: 13, 53, 84;
+  --color-primary-900: 5, 25, 41;
+  --color-primary-950: 2, 11, 19;
+
+
+  --color-primary-50: 255, 255, 255;
+  --color-primary-100: 239, 248, 252;
+  --color-primary-200: 173, 220, 242;
+  --color-primary-300: 107, 192, 231;
+  --color-primary-400: 41, 164, 220;
+  --color-primary-500: 26, 117, 159;
+  --color-primary-600: 22, 101, 137;
+  --color-primary-700: 19, 85, 115;
+  --color-primary-800: 19, 85, 115;
+  --color-primary-900: 4, 20, 28;
+
+  /* Orange Autumn */
+  --color-secondary-50: 255, 255, 255;
+  --color-secondary-100: 255, 255, 255;
+  --color-secondary-200: 255, 240, 212;
+  --color-secondary-300: 255, 213, 136;
+  --color-secondary-400: 255, 187, 59;
+  --color-secondary-500: 238, 155, 0;
+  --color-secondary-600: 197, 128, 0;
+  --color-secondary-700: 156, 102, 0;
+  --color-secondary-800: 116, 75, 0;
+  --color-secondary-900: 75, 49, 0;
+}
+
+/* Colours
+
+/* Lum | Hue 0 | B: #525252, 400 | LMax: 95 LMin: -1 
+--color-neutral-50: 237, 237, 237;
+--color-neutral-100: 222, 222, 222;
+--color-neutral-200: 191, 191, 191;
+--color-neutral-300: 148, 148, 148;
+--color-neutral-400: 82, 82, 82;
+--color-neutral-500: 74, 74, 74;
+--color-neutral-600: 64, 64, 64;
+--color-neutral-700: 56, 56, 56;
+--color-neutral-800: 38, 38, 38;
+--color-neutral-900: 26, 26, 26;
+--color-neutral-950: 0, 0, 0;
+
+/* My Stone
+  --color-neutral-50: 245, 245, 245;
+  --color-neutral-100: 232, 232, 232;
+  --color-neutral-200: 209, 209, 209;
+  --color-neutral-300: 186, 186, 186;
+  --color-neutral-400: 163, 163, 163;
+  --color-neutral-500: 140, 140, 140;
+  --color-neutral-600: 117, 117, 117;
+  --color-neutral-700: 94, 94, 94;
+  --color-neutral-800: 74, 74, 74;
+  --color-neutral-900: 50, 50, 50;
+  --color-neutral-950: 26, 26, 26;
+
+  /* Neutral 
+  --color-neutral-50: 250, 250, 250;
+  --color-neutral-100: 245, 245, 245;
+  --color-neutral-200: 229, 229, 229;
+  --color-neutral-300: 212, 212, 212;
+  --color-neutral-400: 163, 163, 163;
+  --color-neutral-500: 115, 115, 115;
+  --color-neutral-600: 82, 82, 82;
+  --color-neutral-700: 64, 64, 64;
+  --color-neutral-800: 38, 38, 38;
+  --color-neutral-900: 23, 23, 23;
+  --color-neutral-950: 10, 10, 10;
+
+/* Zinc
+--color-primary-50: 250, 250, 250;
+--color-primary-100: 244, 244, 245;
+--color-primary-200: 228, 228, 231;
+--color-primary-300: 212, 212, 216;
+--color-primary-400: 161, 161, 170;
+--color-primary-500: 113, 113, 122;
+--color-primary-600: 82, 82, 91;
+--color-primary-700: 63, 63, 70;
+--color-primary-800: 39, 39, 42;
+--color-primary-900: 24, 24, 27;
+--color-primary-950: 9, 9, 11;
+
+/* Gray 
+--color-primary-50:  249, 250, 251;
+--color-primary-100: 243, 244, 246;
+--color-primary-200: 229, 231, 235;
+--color-primary-300: 209, 213, 219;
+--color-primary-400: 156, 163, 175;
+--color-primary-500: 107, 114, 128;
+--color-primary-600: 75, 85, 99;
+--color-primary-700: 55, 65, 81;
+--color-primary-800: 31, 41, 55;
+--color-primary-900: 17, 24, 39; 
+--color-primary-950: 12, 10, 9;
+
+/* Stone 
+--color-neutral-50: 250, 250, 249;
+--color-neutral-100: 245, 245, 244;
+--color-neutral-200: 231, 229, 228;
+--color-neutral-300: 214, 211, 209;
+--color-neutral-400: 168, 162, 158;
+--color-neutral-500: 120, 113, 108;
+--color-neutral-600: 87, 83, 78;
+--color-neutral-700: 68, 64, 60;
+--color-neutral-800: 41, 37, 36; /* dark page background 
+--color-neutral-900: 28, 25, 23;
+--color-neutral-950: 12, 10, 9; 
+
+/* Mine Shaft
+--color-neutral-50: 246, 246, 246;
+--color-neutral-100: 231, 231, 231;
+--color-neutral-200: 209, 209, 209;
+--color-neutral-300: 176, 176, 176;
+--color-neutral-400: 136, 136, 136;
+--color-neutral-500: 109, 109, 109;
+--color-neutral-600: 93, 93, 93;
+--color-neutral-700: 79, 79, 79;
+--color-neutral-800: 69, 69, 69;
+--color-neutral-900: 61, 61, 61;
+--color-neutral-950: 40, 40, 40;
+
+/* Orange Idle Fingers
+--color-primary-50: 250, 233, 224;
+--color-primary-100: 246, 215, 198;
+--color-primary-200: 239, 184, 154;
+--color-primary-300: 231, 150, 106;
+--color-primary-400: 224, 118, 62;
+--color-primary-500: 198, 89, 32;
+--color-primary-600: 162, 74, 26;
+--color-primary-700: 123, 56, 20;
+--color-primary-800: 88, 40, 14;
+--color-primary-900: 48, 22, 8;
+--color-primary-950: 31, 14, 5;
+
+/* Orange
+--color-primary-50: 255, 247, 237;
+--color-primary-100: 255, 237, 213;
+--color-primary-200: 254, 215, 170;
+--color-primary-300: 253, 186, 116;
+--color-primary-400: 251, 146, 60;
+--color-primary-500: 249, 115, 22;
+--color-primary-600: 234, 88, 12;
+--color-primary-700: 194, 65, 12;
+--color-primary-800: 154, 52, 18;
+--color-primary-900: 124, 45, 18;
+
+/* Emerald Autumn
+--color-neutral-50:     255,255,255;
+--color-neutral-100:    214,251,252;
+--color-neutral-200:    142,245,247;
+--color-neutral-300:    70,239,243;
+--color-neutral-400:    15,217,222;
+--color-neutral-500:    10,147,150;
+--color-neutral-600:    7,110,112;
+--color-neutral-700:    5,72,74;
+--color-neutral-800:    2,35,35;
+--color-neutral-900:    0,0,0;
+
+/* Orange Autumn
+--color-primary-50:     255,255,255;
+--color-primary-100:    255,255,255;
+--color-primary-200:    255,240,212;
+--color-primary-300:    255,213,136;
+--color-primary-400:    255,187,59;
+--color-primary-500:    238,155,0;
+--color-primary-600:    197,128,0;
+--color-primary-700:    156,102,0;
+--color-primary-800:    116,75,0;
+--color-primary-900:    75,49,0;
+
+/* Dark Grey
+--color-neutral-50: 230, 230, 230;
+--color-neutral-100: 212, 212, 212;
+--color-neutral-200: 171, 171, 171;
+--color-neutral-300: 133, 133, 133;
+--color-neutral-400: 92, 92, 92;
+--color-neutral-500: 53, 53, 53;
+--color-neutral-600: 43, 43, 43;
+--color-neutral-700: 33, 33, 33;
+--color-neutral-800: 26, 26, 26;
+--color-neutral-900: 15, 15, 15;
+--color-neutral-950: 10, 10, 10;
+
+/* Dark Emerald
+--color-primary-50: 228, 240, 241;
+--color-primary-100: 205, 227, 228;
+--color-primary-200: 162, 203, 205;
+--color-primary-300: 122, 181, 184;
+--color-primary-400: 83, 153, 157;
+--color-primary-500: 60, 110, 113;
+--color-primary-600: 50, 91, 93;
+--color-primary-700: 37, 68, 70;
+--color-primary-800: 27, 49, 50;
+--color-primary-900: 14, 26, 27;
+--color-primary-950: 9, 16, 17;
+
+  /* Gray 
+  --color-neutral-50: 248, 250, 252;
+  --color-neutral-100: 241, 245, 249;
+  --color-neutral-200: 226, 232, 240;
+  --color-neutral-300: 203, 213, 225;
+  --color-neutral-400: 148, 163, 184;
+  --color-neutral-500: 100, 116, 139;
+  --color-neutral-600: 71, 85, 105;
+  --color-neutral-700: 51, 65, 85;
+  --color-neutral-800: 30, 41, 59;
+  --color-neutral-900: 15, 23, 42;
+
+*/

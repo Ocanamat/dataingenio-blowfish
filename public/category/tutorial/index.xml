@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tutorial on dataIngenio</title>
+    <title>Tutorial on </title>
     <link>http://localhost:1313/category/tutorial/</link>
-    <description>Recent content in Tutorial on dataIngenio</description>
+    <description>Recent content in Tutorial on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>info@dataingenio.com (Tama Francisquez)</managingEditor>
     <webMaster>info@dataingenio.com (Tama Francisquez)</webMaster>
-    <copyright>© dataIngenio {year}. All rights reserved</copyright>
+    <copyright>© Tama Francisquez 2024. All rights reserved</copyright>
     <lastBuildDate>Thu, 06 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/category/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Run Stable Diffusion On Your Laptop</title>

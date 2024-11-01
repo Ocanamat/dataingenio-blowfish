@@ -1,0 +1,68 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.content.pageFolders": [
+    {
+      "path": "[[workspace]]/content",
+      "title": "content"
+    }
+  ],
+  "frontMatter.content.publicFolder": {
+    "path": "/assets",
+    "relative": true
+  },
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.media.supportedMimeTypes": [
+    "image/*",
+    "video/*",
+    "audio/*"
+  ],
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.site.baseURL": "http://www.dataingenio.com",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "fields": [
+        {
+          "name": "title",
+          "title": "Title",
+          "type": "string"
+        },
+        {
+          "name": "description",
+          "title": "Description",
+          "type": "string"
+        },
+        {
+          "default": "{{now}}",
+          "isPublishDate": true,
+          "name": "date",
+          "title": "Publishing date",
+          "type": "datetime"
+        },
+        {
+          "name": "preview",
+          "title": "Content preview",
+          "type": "image"
+        },
+        {
+          "name": "draft",
+          "title": "Is in draft",
+          "type": "draft"
+        },
+        {
+          "name": "tags",
+          "title": "Tags",
+          "type": "tags"
+        },
+        {
+          "name": "categories",
+          "title": "Categories",
+          "type": "categories"
+        }
+      ],
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null
+    }
+  ],
+  "frontMatter.framework.startCommand": "hugo server -D --logLevel debug -v -N --poll 1500ms"
+}

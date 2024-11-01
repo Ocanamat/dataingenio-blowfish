@@ -1,2 +1,4 @@
 .disabled/
+.vscode/
+.frontmatter/
 _vendor/

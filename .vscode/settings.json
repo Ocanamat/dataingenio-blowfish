@@ -28,8 +28,8 @@
         "editorInfo.border": "#24ee007a",
         "errorLens.errorForeground": "#ff64644e",
         "errorLens.warningForeground": "#fa973a4a",
-        "activityBar.background": "#1E2E45",
-        "titleBar.activeBackground": "#2A4061",
+        "activityBar.background": "#7399ce",
+        "titleBar.activeBackground": "#3f4e63",
         "titleBar.activeForeground": "#F9FAFC"
     }
 }

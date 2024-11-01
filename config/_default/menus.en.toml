@@ -27,17 +27,22 @@
   pageRef = "projects"
   weight = 30
 
-[[subnavigation]]
+[[main]]
   name = "about"
   url = "#contact"
   weight = 60
 
-[[subnavigation]]
+[[main]]
   # Link to a PDF of your resume/CV from the menu.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   name = "cv"
   pagerRef = "uploads/resume.pdf"
   weight = 70
+
+#[[subnavigation]]
+#  name = "       "
+#  url = "/"
+#  weight = 80
 
 # -Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

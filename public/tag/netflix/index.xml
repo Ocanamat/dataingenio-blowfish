@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Netflix on dataIngenio</title>
+    <title>Netflix on </title>
     <link>http://localhost:1313/tag/netflix/</link>
-    <description>Recent content in Netflix on dataIngenio</description>
+    <description>Recent content in Netflix on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>info@dataingenio.com (Tama Francisquez)</managingEditor>
     <webMaster>info@dataingenio.com (Tama Francisquez)</webMaster>
-    <copyright>© dataIngenio {year}. All rights reserved</copyright>
+    <copyright>© Tama Francisquez 2024. All rights reserved</copyright>
     <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tag/netflix/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Streaming Wars and What Comes After… </title>
