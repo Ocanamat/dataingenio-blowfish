@@ -29,8 +29,12 @@ highlightCurrentMenuArea = true
 smartTOC = true
 smartTOCHideUnfocusedChildren = true
 
-giteaDefaultServer = "https://git.fsfe.org"
-forgejoDefaultServer = "https://v8.next.forgejo.org"
+# giteaDefaultServer = "https://git.fsfe.org"
+# forgejoDefaultServer = "https://v8.next.forgejo.org"
+
+[cookies]
+  enable = true
+  script = "/js/cookieconsent-config.js"
 
 [header]
   layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
