@@ -17,7 +17,8 @@ title = ""
 [params.author]
   name = "Tama Francisquez"
   email = "info@dataingenio.com"
-  image = "img/blowfish_logo.png"
+  image = "image/album/profile/profile-color.png"
+  #image = "img/blowfish_logo.png"
   imageQuality = 96
   headline = "Data Scientist | Optimizing the World with Python, R & Julia | Citizen Science, Open Data, and Geospatial Insights"
   bio = "A little bit about you"
